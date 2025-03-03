@@ -334,6 +334,12 @@ body {
     opacity: 1;
 }
 
+
+.bloc-info {
+    width: 66%;
+    margin: 0 auto;
+}
+
 @media screen and (min-width: 500px) {
     .portfolio__miniature-box {
         width: 420px;
